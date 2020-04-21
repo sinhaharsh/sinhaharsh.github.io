@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sakshi Kalra | </title>
+    <link>https://sinhaharsh.github.io/authors/sakshi-kalra/</link>
+      <atom:link href="https://sinhaharsh.github.io/authors/sakshi-kalra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sakshi Kalra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Apr 2020 16:18:20 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sakshi Kalra</title>
+      <link>https://sinhaharsh.github.io/authors/sakshi-kalra/</link>
+    </image>
+    
+    <item>
+      <title>Text-Convolutional Neural Networks for Fake News Detection in Tweets</title>
+      <link>https://sinhaharsh.github.io/publication/sinha2020text/</link>
+      <pubDate>Sun, 05 Apr 2020 16:18:20 +0530</pubDate>
+      <guid>https://sinhaharsh.github.io/publication/sinha2020text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

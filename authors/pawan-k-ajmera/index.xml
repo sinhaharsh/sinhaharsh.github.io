@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pawan K Ajmera | </title>
+    <link>https://sinhaharsh.github.io/authors/pawan-k-ajmera/</link>
+      <atom:link href="https://sinhaharsh.github.io/authors/pawan-k-ajmera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pawan K Ajmera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Apr 2020 16:16:17 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Pawan K Ajmera</title>
+      <link>https://sinhaharsh.github.io/authors/pawan-k-ajmera/</link>
+    </image>
+    
+    <item>
+      <title>Audio Classification using Braided Convolutional Neural Networks</title>
+      <link>https://sinhaharsh.github.io/publication/sinha2020audio/</link>
+      <pubDate>Sun, 05 Apr 2020 16:16:17 +0530</pubDate>
+      <guid>https://sinhaharsh.github.io/publication/sinha2020audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upgrading security and protection in Ear Biometrics</title>
+      <link>https://sinhaharsh.github.io/publication/sinha2019upgrading/</link>
+      <pubDate>Tue, 29 Jan 2019 16:18:48 +0530</pubDate>
+      <guid>https://sinhaharsh.github.io/publication/sinha2019upgrading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Network-Based Human Identification Using Outer Ear Images</title>
+      <link>https://sinhaharsh.github.io/publication/sinha2019convolutional/</link>
+      <pubDate>Wed, 31 Oct 2018 16:18:37 +0530</pubDate>
+      <guid>https://sinhaharsh.github.io/publication/sinha2019convolutional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interweaving Convolutions: An application to Audio Classification</title>
+      <link>https://sinhaharsh.github.io/publication/sinha2018interweaving/</link>
+      <pubDate>Thu, 23 Aug 2018 16:19:14 +0530</pubDate>
+      <guid>https://sinhaharsh.github.io/publication/sinha2018interweaving/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

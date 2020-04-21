@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raunak Manekar | </title>
+    <link>https://sinhaharsh.github.io/authors/raunak-manekar/</link>
+      <atom:link href="https://sinhaharsh.github.io/authors/raunak-manekar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raunak Manekar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Oct 2018 16:18:37 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Raunak Manekar</title>
+      <link>https://sinhaharsh.github.io/authors/raunak-manekar/</link>
+    </image>
+    
+    <item>
+      <title>Convolutional Neural Network-Based Human Identification Using Outer Ear Images</title>
+      <link>https://sinhaharsh.github.io/publication/sinha2019convolutional/</link>
+      <pubDate>Wed, 31 Oct 2018 16:18:37 +0530</pubDate>
+      <guid>https://sinhaharsh.github.io/publication/sinha2019convolutional/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

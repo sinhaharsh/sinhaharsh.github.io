@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shivin Shrivastava | </title>
+    <link>https://sinhaharsh.github.io/authors/shivin-shrivastava/</link>
+      <atom:link href="https://sinhaharsh.github.io/authors/shivin-shrivastava/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shivin Shrivastava</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 16:19:02 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Shivin Shrivastava</title>
+      <link>https://sinhaharsh.github.io/authors/shivin-shrivastava/</link>
+    </image>
+    
+    <item>
+      <title>Studying the Role of Kinect as a Multi-Sensory Learning Platform for Children</title>
+      <link>https://sinhaharsh.github.io/publication/sinha2018studying/</link>
+      <pubDate>Mon, 01 Oct 2018 16:19:02 +0530</pubDate>
+      <guid>https://sinhaharsh.github.io/publication/sinha2018studying/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
