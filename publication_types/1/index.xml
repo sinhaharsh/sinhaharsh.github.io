@@ -5,12 +5,20 @@
     <link>https://sinhaharsh.github.io/publication_types/1/</link>
       <atom:link href="https://sinhaharsh.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Apr 2020 16:18:20 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 09:55:30 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://sinhaharsh.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>HIDeGAN: A Hyperspectral-guided Image Dehazing GAN</title>
+      <link>https://sinhaharsh.github.io/publication/mehta2020hidegan/</link>
+      <pubDate>Mon, 20 Apr 2020 09:55:30 +0530</pubDate>
+      <guid>https://sinhaharsh.github.io/publication/mehta2020hidegan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Text-Convolutional Neural Networks for Fake News Detection in Tweets</title>
