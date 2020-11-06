@@ -5,12 +5,20 @@
     <link>https://sinhaharsh.github.io/authors/aditya-mehta/</link>
       <atom:link href="https://sinhaharsh.github.io/authors/aditya-mehta/index.xml" rel="self" type="application/rss+xml" />
     <description>Aditya Mehta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 16:21:27 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2020 15:44:46 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Aditya Mehta</title>
       <link>https://sinhaharsh.github.io/authors/aditya-mehta/</link>
     </image>
+    
+    <item>
+      <title>Learning to Enhance Visual Quality via Hyperspectral Domain Mapping</title>
+      <link>https://sinhaharsh.github.io/publication/sinha2021learning/</link>
+      <pubDate>Fri, 06 Nov 2020 15:44:46 +0530</pubDate>
+      <guid>https://sinhaharsh.github.io/publication/sinha2021learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Domain-Aware Unsupervised Hyperspectral Reconstruction for Aerial Image Dehazing</title>
