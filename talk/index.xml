@@ -12,5 +12,29 @@
       <link>https://sinhaharsh.github.io/talk/</link>
     </image>
     
+    <item>
+      <title>OHBM 2023</title>
+      <link>https://sinhaharsh.github.io/talk/ohbm2023/</link>
+      <pubDate>Sat, 17 Dec 2022 16:21:54 -0400</pubDate>
+      <guid>https://sinhaharsh.github.io/talk/ohbm2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AAIC 2023</title>
+      <link>https://sinhaharsh.github.io/talk/aaic2023/</link>
+      <pubDate>Tue, 01 Nov 2022 16:23:05 -0400</pubDate>
+      <guid>https://sinhaharsh.github.io/talk/aaic2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Imaging meets NeurIPS</title>
+      <link>https://sinhaharsh.github.io/talk/my-talk-name/</link>
+      <pubDate>Thu, 22 Sep 2022 16:00:38 -0400</pubDate>
+      <guid>https://sinhaharsh.github.io/talk/my-talk-name/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
