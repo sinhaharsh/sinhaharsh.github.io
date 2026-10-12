@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://sinhaharsh.github.io/authors/admin/</link>
-      <atom:link href="https://sinhaharsh.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sinhaharsh.org/authors/admin/</link>
+      <atom:link href="https://sinhaharsh.org/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title></title>
-      <link>https://sinhaharsh.github.io/authors/admin/</link>
+      <link>https://sinhaharsh.org/authors/admin/</link>
     </image>
     
     <item>
       <title>Learning to Enhance Visual Quality via Hyperspectral Domain Mapping</title>
-      <link>https://sinhaharsh.github.io/publication/sinha2021learning/</link>
+      <link>https://sinhaharsh.org/publication/sinha2021learning/</link>
       <pubDate>Fri, 06 Nov 2020 15:44:46 +0530</pubDate>
-      <guid>https://sinhaharsh.github.io/publication/sinha2021learning/</guid>
+      <guid>https://sinhaharsh.org/publication/sinha2021learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domain-Aware Unsupervised Hyperspectral Reconstruction for Aerial Image Dehazing</title>
-      <link>https://sinhaharsh.github.io/publication/mehta2021domain/</link>
+      <link>https://sinhaharsh.org/publication/mehta2021domain/</link>
       <pubDate>Mon, 02 Nov 2020 16:21:27 +0530</pubDate>
-      <guid>https://sinhaharsh.github.io/publication/mehta2021domain/</guid>
+      <guid>https://sinhaharsh.org/publication/mehta2021domain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HIDeGAN: A Hyperspectral-guided Image Dehazing GAN</title>
-      <link>https://sinhaharsh.github.io/publication/mehta2020hidegan/</link>
+      <link>https://sinhaharsh.org/publication/mehta2020hidegan/</link>
       <pubDate>Mon, 20 Apr 2020 09:55:30 +0530</pubDate>
-      <guid>https://sinhaharsh.github.io/publication/mehta2020hidegan/</guid>
+      <guid>https://sinhaharsh.org/publication/mehta2020hidegan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text-Convolutional Neural Networks for Fake News Detection in Tweets</title>
-      <link>https://sinhaharsh.github.io/publication/sinha2020text/</link>
+      <link>https://sinhaharsh.org/publication/sinha2020text/</link>
       <pubDate>Sun, 05 Apr 2020 16:18:20 +0530</pubDate>
-      <guid>https://sinhaharsh.github.io/publication/sinha2020text/</guid>
+      <guid>https://sinhaharsh.org/publication/sinha2020text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Audio Classification using Braided Convolutional Neural Networks</title>
-      <link>https://sinhaharsh.github.io/publication/sinha2020audio/</link>
+      <link>https://sinhaharsh.org/publication/sinha2020audio/</link>
       <pubDate>Sun, 05 Apr 2020 16:16:17 +0530</pubDate>
-      <guid>https://sinhaharsh.github.io/publication/sinha2020audio/</guid>
+      <guid>https://sinhaharsh.org/publication/sinha2020audio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Upgrading security and protection in Ear Biometrics</title>
-      <link>https://sinhaharsh.github.io/publication/sinha2019upgrading/</link>
+      <link>https://sinhaharsh.org/publication/sinha2019upgrading/</link>
       <pubDate>Tue, 29 Jan 2019 16:18:48 +0530</pubDate>
-      <guid>https://sinhaharsh.github.io/publication/sinha2019upgrading/</guid>
+      <guid>https://sinhaharsh.org/publication/sinha2019upgrading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutional Neural Network-Based Human Identification Using Outer Ear Images</title>
-      <link>https://sinhaharsh.github.io/publication/sinha2019convolutional/</link>
+      <link>https://sinhaharsh.org/publication/sinha2019convolutional/</link>
       <pubDate>Wed, 31 Oct 2018 16:18:37 +0530</pubDate>
-      <guid>https://sinhaharsh.github.io/publication/sinha2019convolutional/</guid>
+      <guid>https://sinhaharsh.org/publication/sinha2019convolutional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Studying the Role of Kinect as a Multi-Sensory Learning Platform for Children</title>
-      <link>https://sinhaharsh.github.io/publication/sinha2018studying/</link>
+      <link>https://sinhaharsh.org/publication/sinha2018studying/</link>
       <pubDate>Mon, 01 Oct 2018 16:19:02 +0530</pubDate>
-      <guid>https://sinhaharsh.github.io/publication/sinha2018studying/</guid>
+      <guid>https://sinhaharsh.org/publication/sinha2018studying/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interweaving Convolutions: An application to Audio Classification</title>
-      <link>https://sinhaharsh.github.io/publication/sinha2018interweaving/</link>
+      <link>https://sinhaharsh.org/publication/sinha2018interweaving/</link>
       <pubDate>Thu, 23 Aug 2018 16:19:14 +0530</pubDate>
-      <guid>https://sinhaharsh.github.io/publication/sinha2018interweaving/</guid>
+      <guid>https://sinhaharsh.org/publication/sinha2018interweaving/</guid>
       <description></description>
     </item>
     

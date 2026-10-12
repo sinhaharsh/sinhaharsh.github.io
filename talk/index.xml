@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | </title>
-    <link>https://sinhaharsh.github.io/talk/</link>
-      <atom:link href="https://sinhaharsh.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sinhaharsh.org/talk/</link>
+      <atom:link href="https://sinhaharsh.org/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://sinhaharsh.github.io/talk/</link>
+      <link>https://sinhaharsh.org/talk/</link>
     </image>
     
     <item>
       <title>OHBM 2023</title>
-      <link>https://sinhaharsh.github.io/talk/ohbm2023/</link>
+      <link>https://sinhaharsh.org/talk/ohbm2023/</link>
       <pubDate>Sat, 17 Dec 2022 16:21:54 -0400</pubDate>
-      <guid>https://sinhaharsh.github.io/talk/ohbm2023/</guid>
+      <guid>https://sinhaharsh.org/talk/ohbm2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AAIC 2023</title>
-      <link>https://sinhaharsh.github.io/talk/aaic2023/</link>
+      <link>https://sinhaharsh.org/talk/aaic2023/</link>
       <pubDate>Tue, 01 Nov 2022 16:23:05 -0400</pubDate>
-      <guid>https://sinhaharsh.github.io/talk/aaic2023/</guid>
+      <guid>https://sinhaharsh.org/talk/aaic2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical Imaging meets NeurIPS</title>
-      <link>https://sinhaharsh.github.io/talk/my-talk-name/</link>
+      <link>https://sinhaharsh.org/talk/my-talk-name/</link>
       <pubDate>Thu, 22 Sep 2022 16:00:38 -0400</pubDate>
-      <guid>https://sinhaharsh.github.io/talk/my-talk-name/</guid>
+      <guid>https://sinhaharsh.org/talk/my-talk-name/</guid>
       <description></description>
     </item>
     
