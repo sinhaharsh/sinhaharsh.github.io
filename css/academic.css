@@ -14,3 +14,16 @@ body.dark .navbar .navbar-nav .nav-link.active,body.dark .navbar .dropdown-item.
 body.dark .btn-outline-primary{color:#E7AA8B;border-color:#E7AA8B}
 body.dark .btn-outline-primary:hover,body.dark .btn-outline-primary:focus{color:#282a36;background-color:#E7AA8B;border-color:#E7AA8B}
 body.dark .featurette-icon,body.dark .wg-hero.dark .btn{color:#E7AA8B}
+/* Publication titles read like normal text while remaining clickable. */
+a[href^="/publication/"]:not([href="/publication/"]):not(.btn),
+a[href^="/publication/"]:not([href="/publication/"]):not(.btn):hover,
+a[href^="/publication/"]:not([href="/publication/"]):not(.btn):focus{color:#212529}
+a[href^="/publication/"]:not([href="/publication/"]):not(.btn):hover,
+a[href^="/publication/"]:not([href="/publication/"]):not(.btn):focus{text-decoration:underline}
+body.dark a[href^="/publication/"]:not([href="/publication/"]):not(.btn),
+body.dark a[href^="/publication/"]:not([href="/publication/"]):not(.btn):hover,
+body.dark a[href^="/publication/"]:not([href="/publication/"]):not(.btn):focus{color:#f8f8f2}
+
+/* Profile icons match the nearby neutral icons. */
+#about .network-icon a,#about .network-icon a:hover,#about .network-icon a:focus{color:#212529}
+body.dark #about .network-icon a,body.dark #about .network-icon a:hover,body.dark #about .network-icon a:focus{color:#f8f8f2}
